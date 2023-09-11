@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.8.0)
+  - Kingfisher (7.9.1)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SwiftFormat/CLI (0.52.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 7.0)
+  - NVActivityIndicatorView
+  - SwiftFormat/CLI (~> 0.49)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - NVActivityIndicatorView
+    - SwiftFormat
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SwiftFormat: 5de81c42f043741a16e17ae2da012bbddc7c0b58
+
+PODFILE CHECKSUM: 9ec0a2b414b5e134b0aa0a5578eb4b62aa24075a
+
+COCOAPODS: 1.12.0
